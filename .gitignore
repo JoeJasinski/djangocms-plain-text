@@ -10,3 +10,4 @@ MINDS
 
 .hg/*
 .hgignore
+*.egg-info
